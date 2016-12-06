@@ -6,10 +6,10 @@ header-img: "img/about-bg.jpg"
 ---
 
 <!-- Language Selector -->
-<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
     <option value="1"> 英文 English </option>
-</select> -->
+</select>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -19,8 +19,8 @@ header-img: "img/about-bg.jpg"
     初心</p></blockquote>
 
     <p>Hey，我是<strong>王谦</strong>，programmer &amp; designers &amp; poet</p>
-<!-- 
-    <p>一些作品和开源项目，👉 戳 <a href="https://zhuanlan.zhihu.com/p/21280918">演说.io</a>、<a href="/portfolio">Portfolio</a> 与 <a href="http://github.com/huxpro">Github</a>；除了在博客与 <a href="http://zhuanlan.zhihu.com/huxblog">知乎专栏 · 一生想做浪漫极客</a> 写点东西外，我也是 <a href="http://www.gfansub.com/">GDG 字幕组</a> 与 <a href="http://zhuanlan.zhihu.com/FrontendMagazine">前端外刊评论 · 知乎专栏</a> 的翻译维护成员。</p> -->
+
+    <p>一些作品和开源项目，👉 戳 <a href="https://zhuanlan.zhihu.com/p/21280918">演说.io</a>、<a href="/portfolio">Portfolio</a> 与 <a href="http://github.com/huxpro">Github</a>；除了在博客与 <a href="http://zhuanlan.zhihu.com/huxblog">知乎专栏 · 一生想做浪漫极客</a> 写点东西外，我也是 <a href="http://www.gfansub.com/">GDG 字幕组</a> 与 <a href="http://zhuanlan.zhihu.com/FrontendMagazine">前端外刊评论 · 知乎专栏</a> 的翻译维护成员。</p>
     
     <p>喜欢披头士、john lennon、鲍勃迪伦、甘地、禅宗、jobs、爱因斯坦。</p>
     <h5>Talks</h5>
@@ -83,14 +83,14 @@ header-img: "img/about-bg.jpg"
         }
     }
 
-    // handle select change
-    // function onLanChange(index){
-    //     if(index == 0){
-    //         window.location.hash = "#zh"
-    //     }else{
-    //         window.location.hash = "#en"
-    //     }
-    // }
+    handle select change
+    function onLanChange(index){
+        if(index == 0){
+            window.location.hash = "#zh"
+        }else{
+            window.location.hash = "#en"
+        }
+    }
 
     // init
     _render();
