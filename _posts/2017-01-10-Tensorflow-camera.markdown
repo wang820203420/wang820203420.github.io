@@ -4,7 +4,7 @@
 <p id = "build"></p>
 ---
 
-<div>
+
 <br>
 跑了tf 的minist 训练感觉蛮有意思的，然后试了下 TensorFlow 里面有个项目叫 **camera**，可以进行物体识别。玩这个项目首先你得 [下载tf 项目]( https://github.com/tensorflow/tensorflow) 在 contrib 文件下找到 ios_examples 就可以看到了。</br>
 
@@ -20,7 +20,7 @@
 <br>有了这三个添加到工程中你就可以运行了。</br>
 
 
-</div>
+
 
 
 
