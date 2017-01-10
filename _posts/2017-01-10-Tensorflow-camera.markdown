@@ -6,6 +6,15 @@
 
 
 <br>
+> 世界那么大，我想去看看
+
+Hi all  
+这里是鬼栈的离职信。
+
+![img](/img/in-post/post-c-u-ali-team.png)
+
+
+---
 跑了tf 的minist 训练感觉蛮有意思的，然后试了下 TensorFlow 里面有个项目叫 **camera**，可以进行物体识别。玩这个项目首先你得 [下载tf 项目]( https://github.com/tensorflow/tensorflow) 在 contrib 文件下找到 ios_examples 就可以看到了。
 
 <br>当然现在是运行不起来的，你还需要3个文件。
