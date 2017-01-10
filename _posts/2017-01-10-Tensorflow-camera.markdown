@@ -1,16 +1,9 @@
 
+坐立不安<br>青蛙抓不到虫子
+
+<p id = "build"></p>
 ---
-layout:     post
-title:      "坐立不安的青蛙抓不到虫"
-subtitle:   "年轻人就应该经历无数的打磨"
-date:       2017-01-10 12:00:00
-author:     "king"
-header-img: "img/post-bg-alibaba.jpg"
-tags:
-    - 自学
-    - iOS
-    - 深度学习
----
+
 <div>
 <br>
 跑了tf 的minist 训练感觉蛮有意思的，然后试了下 TensorFlow 里面有个项目叫 **camera**，可以进行物体识别。玩这个项目首先你得 [下载tf 项目]( https://github.com/tensorflow/tensorflow) 在 contrib 文件下找到 ios_examples 就可以看到了。</br>
