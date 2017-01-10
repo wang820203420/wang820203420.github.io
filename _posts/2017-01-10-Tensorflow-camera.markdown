@@ -6,12 +6,13 @@
 
 
 <br>
-> 世界那么大，我想去看看
+> Hello
 
-Hi all  
-这里是鬼栈的离职信。
+   
+这里是效果。
 
-![img](/img/in-post/post-c-u-ali-team.png)
+![img](/img/in-post/IMG_9713.png)
+![img](/img/in-post/IMG_9714.png)
 
 
 ---
@@ -28,8 +29,6 @@ Hi all
 
 <br>有了这三个添加到工程中你就可以运行了。
 
-![img](/img/in-post/post-c-u-ali-team.png)
-![img](/img/in-post/IMG_9714.png)
 
 
 
