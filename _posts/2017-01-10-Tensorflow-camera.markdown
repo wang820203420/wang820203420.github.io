@@ -25,7 +25,7 @@
    
 最终结果。
 
-![img](/img/in-post/IMG_9742.JPG)
+![img](/img/in-post/post-c-u-ali-memo.jpg)
 ![img](/img/in-post/IMG_9713.png)
 
 
