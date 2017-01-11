@@ -23,13 +23,13 @@
 > Hello
 
    
-最终效果。
+最终结果。
 
-![img](/img/in-post/IMG_9713.JPG)
-![img](/img/in-post/IMG_9714.JPG)
+![img](/img/in-post/IMG_9714.png)
+![img](/img/in-post/IMG_9713.png)
+
 
 ---
-
 
 
 
