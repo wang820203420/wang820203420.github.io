@@ -7,9 +7,6 @@
 <br>
 > Hello
 
-   
-see you again。
-
 ![img](/img/in-post/shibie1.png)
 
 
@@ -79,14 +76,15 @@ NHJ010901
 <br>91%的准确率。后面我又增加了多层神经网络，提高到了93%，但是没达到官网 97%。
 
 
-># load MNIST data
+<br>
+# load MNIST data
 import input_data
 from mnist_demo import *
 mnist = input_data.read_data_sets("mnist", one_hot=True)
 
 
 
-># start tensorflow interactiveSession
+# start tensorflow interactiveSession
 import tensorflow as tf
 sess = tf.InteractiveSession()
 
