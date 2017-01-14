@@ -26,6 +26,7 @@
 <br>有了这三个添加到工程中你就可以运行了。
 
 <br>那我们来看看部分代码。demo 我会上传到 github 需要看源码的的可以下载。
+<br>
 ## demo
 > -(void)viewDidLoad {
   <br>[super viewDidLoad];
@@ -75,8 +76,7 @@ NHJ010901
 
 <br>91%的准确率。后面我又增加了多层神经网络，提高到了93%，但是没达到官网 97%。
 
-```
-
+```scss
 # load MNIST data
 import input_data
 from mnist_demo import *
