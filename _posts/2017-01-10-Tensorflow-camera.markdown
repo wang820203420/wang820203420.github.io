@@ -25,11 +25,8 @@
 
 <br>有了这三个添加到工程中你就可以运行了。
 
-<br>那我们来看看部分代码。demo 我会上传到 github 需要看源码的的可以[下载]。
-<br>
-
 ## demo
-
+<br>
 > -(void)viewDidLoad {
   <br>[super viewDidLoad];
   <br>square = [[UIImage imageNamed:@"squarePNG"] retain];
