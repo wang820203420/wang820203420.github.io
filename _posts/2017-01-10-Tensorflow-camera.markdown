@@ -79,7 +79,7 @@ NHJ010901
 <br>91%的准确率。后面我又增加了多层神经网络，提高到了93%，但是没达到官网 97%。
 
 
-具体可以去看[MNIST](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_pros.html) 
+<br>具体可以去看 [MNIST](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_pros.html) 这里面有详细的介绍，可以让你初步了解关于 tf 的运作过程。
 
 
 
